@@ -1,5 +1,5 @@
 {
-  "name": "@hxhx-monitor/core",
+  "name": "@dianhelper/core",
   "version": "0.0.10",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -30,5 +30,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "89437fd8bbd036468818a89d72b88a96df41e98c"
+  "gitHead": "459d207131d22edfc4249b82f4781ea228bd65ef"
 }
