@@ -27,7 +27,8 @@
     "rimraf": "^5.0.7"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "e2816690c34c494505438d6de006009c6600487f"
+  "gitHead": "c1a2c31ce7304c92f4a5b1695054eb6156bd2c45"
 }
