@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "hxhx-monitor",
   "private": true,
   "workspaces": [
     "packages/*"
