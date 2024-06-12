@@ -26,5 +26,8 @@
   "devDependencies": {
     "rimraf": "^5.0.7"
   },
-  "gitHead": "d14ece59f5c861cf191e83bbed84a21f4df64e2d"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "629d9b41c0e354a6b61aedd7df30ddd0ae915aaf"
 }
